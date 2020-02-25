@@ -1,0 +1,1 @@
+[![Build Status](https://travis-ci.com/Deoh/e-commerce.svg?branch=master)](https://travis-ci.com/Deoh/e-commerce)
